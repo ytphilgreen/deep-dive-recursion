@@ -1,3 +1,5 @@
 the method isPalindrome(String) is undefined for the type Palindrome
 edu.cnm.deepdive.recursion.Palindrome cannot be resolved to a typeedu.cnm.deepdive.recursion.Palindrome cannot be resolved to a typeedu.cnm.deepdive.recursion.Palindrome cannot be resolved to a typeedu.cnm.deepdive.recursion.Palindrome cannot be resolved to a typeThe method isPalidrome(String) is undefined for the type Palindromeedu.cnm.deepdive.recursion.Palindrome.isPalindrome("radar") 
 edu.cnm.deepdive.recursion.Fibonacci.fib(10)
+The method minMoves(int) is undefined for the type Toweredu.cnm.deepdive.recursion.Tower.minMoves(3)
+edu.cnm.deepdive.recursion.Tower.getMoves(3,2,1)
